@@ -1,0 +1,1 @@
+here is the result This is the text file to test sync read method of fs module. + This is the second text file to test sync read method of fs module.here is the result This is the text file to test sync read method of fs module. + This is the second text file to test sync read method of fs module.
